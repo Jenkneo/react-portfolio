@@ -10,7 +10,12 @@ function Projects () {
         <ul className="projects">
           {/* Вместо index должен быть использован id в случае если элемент берется из таблицы БД */}
           {projects.map((project, index) => {
-            return <Project key={index} title={project.title} img={project.img} />;
+            return <Project 
+                key={index} 
+                title={project.title} 
+                img={project.img} 
+                index={index}
+              />;
           })}
           
         </ul>
