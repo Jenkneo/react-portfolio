@@ -1,7 +1,7 @@
 
 # React portfolio
 
-[![perview_img](readmeimages/perview.png)]([https://t.me/anyonehuman](https://www.figma.com/file/BLoUVvcjORbC9zwwtB6XGe/React-Simple-Portfolio-%28Copy%29?type=design&node-id=0-1&mode=design&t=kpc3NnTUDYQZMygG-0))
+[![perview_img](readmeimages/perview.png)]([https://www.figma.com/file/BLoUVvcjORbC9zwwtB6XGe/React-Simple-Portfolio-%28Copy%29?type=design&node-id=0-1&mode=design&t=kpc3NnTUDYQZMygG-0])
 *(picture is link to Figma layout)*
 
 ## Stack
