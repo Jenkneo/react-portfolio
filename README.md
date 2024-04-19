@@ -1,8 +1,8 @@
 
 # React portfolio
 
-[![perview_img](readmeimages/perview.png)]([https://www.figma.com/file/BLoUVvcjORbC9zwwtB6XGe/React-Simple-Portfolio-%28Copy%29?type=design&node-id=0-1&mode=design&t=kpc3NnTUDYQZMygG-0])
-*(picture is link to Figma layout)*
+[![perview_img](readmeimages/perview.png)]
+*([Figma layout](https://www.figma.com/file/BLoUVvcjORbC9zwwtB6XGe/React-Simple-Portfolio-%28Copy%29?type=design&node-id=0-1&mode=design&t=kpc3NnTUDYQZMygG-0))*
 
 ## Stack
 <img src="https://img.shields.io/badge/JavaScript-brightyellow?style=for-the-badge&logo=JavaScript&labelColor=grey&color=FFD700"> <img src="https://img.shields.io/badge/Node.JS-brightgreen?style=for-the-badge&logo=Node.js&labelColor=grey&color=brightgreen"> <img src="https://img.shields.io/badge/NPM-brightyellow?style=for-the-badge&logo=NPM&labelColor=grey&color=B22222"> <img src="https://img.shields.io/badge/HTML-brightyellow?style=for-the-badge&logo=html5&logoColor=%23f06a32&labelColor=grey&color=%23f06a32"> <img src="https://img.shields.io/badge/CSS-brightyellow?style=for-the-badge&logo=css3&logoColor=%2337acdc&labelColor=grey&color=%2337acdc"> <img src="https://img.shields.io/badge/REACT-brightyellow?style=for-the-badge&logo=react&logoColor=%2366dbfb&labelColor=grey&color=%2366dbfb">
